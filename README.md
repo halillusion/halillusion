@@ -1,7 +1,7 @@
 ### Hi there! I am using Github. 👋
 
 - 🔭 I’m currently working on HTML, CSS, JS, jQuery, Svelte, Nuxt, Vue, PHP and Laravel based apps.
-- 🌱 I’m currently learning Dart, Flutter and Python.
+- 🌱 I’m currently learning Dart, Flutter and Rust.
 - ---
 - 📫 How to reach me: halillusion[at]gmail[dot]com
 
