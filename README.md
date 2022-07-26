@@ -1,6 +1,6 @@
 ### Hi there! I am using Github. 👋
 
-- 🔭 I’m currently working on HTML, CSS, JS, jQuery, Svelte, Nuxt, Vue, PHP, and Flutter based apps.
+- 🔭 I’m currently working on HTML, CSS, JS, jQuery, Svelte, Nuxt, Vue, PHP and Flutter based apps.
 - 🌱 I’m currently learning Go and Rust.
 - ---
 - 📫 How to reach me: halillusion[at]gmail[dot]com
