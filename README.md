@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on HTML, CSS, JS, jQuery, Svelte, Nuxt, Vue, PHP and Flutter based apps.
 - 🌱 I’m currently learning Go and Rust.
-- ---
-- 📫 How to reach me: halillusion[at]gmail[dot]com
 
 <!--
 **halillusion/halillusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
