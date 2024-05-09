@@ -1,7 +1,7 @@
 ### Hi there! I am using Github. 👋
 
-- 🔭 I’m currently working on HTML, CSS, JS, jQuery, Svelte, Nuxt, Vue, PHP and Flutter based apps.
-- 🌱 I’m currently learning Go and Rust.
+- 🔭 I’m currently working on jQuery, Svelte, Nuxt, Vue, PHP, Node.js, Hono and Flutter based apps.
+- 🌱 I’m currently learning Rust.
 
 <!--
 **halillusion/halillusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
