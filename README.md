@@ -1,6 +1,6 @@
 ### Hi there! I am using Github. 👋
 
-- 🔭 I’m currently working on jQuery, Svelte, Nuxt, Vue, PHP, Node.js, Hono and Express based apps.
+- 🔭 I’m currently working on Svelte, Nuxt, Vue, PHP, Node.js, Hono and Express based apps.
 - 🌱 I’m currently learning Rust.
 
 <!--
