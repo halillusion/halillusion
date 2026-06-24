@@ -17,4 +17,4 @@ I'm a full-stack and systems crafter. I build web applications and backend archi
 
 ### Current focus
 
-Right now, I'm moving most of my backend workflows into lightweight, edge-ready services using **Hono** and **Go**, while spending my deep-tech hours diving into custom graphics pipelines with **Rust**.
+Right now, I'm moving most of my backend workflows into lightweight, edge-ready services using **Hono** and **Go**, while spending my deep-tech hours diving into custom graphics pipelines with **Rust** (just hobby for now).
